@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\ACSLEnclose\ACSLEnclose\obj\Debug\ACSLEnclose.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ACSLEnclose\ACSLEnclose\bin\Debug\ACSLEnclose.exe.config
+C:\Users\eahscs\Documents\GitHub\ACSLEnclose\ACSLEnclose\bin\Debug\ACSLEnclose.exe
+C:\Users\eahscs\Documents\GitHub\ACSLEnclose\ACSLEnclose\bin\Debug\ACSLEnclose.pdb
+C:\Users\eahscs\Documents\GitHub\ACSLEnclose\ACSLEnclose\obj\Debug\ACSLEnclose.exe
+C:\Users\eahscs\Documents\GitHub\ACSLEnclose\ACSLEnclose\obj\Debug\ACSLEnclose.pdb
